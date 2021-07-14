@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Lesson1 {
+public class Lesson1 {
 }
